@@ -8,7 +8,7 @@ Este projeto consiste em desenvolver um modelo para extrair características e i
 
 ## Requisitos
 - Python 3.8+
-- Bibliotecas: TensorFlow, Flask, etc.
+- Bibliotecas: Pandas, Numpy, TensorFlow, Matplotlib, Seaborn, PIL, TensorFlow, CV2, SKLearn, Time, Shutil, zipfile, google.colab, skimage, warnings, pathlib
 
 ## Como Executar
 1. Treine o modelo utilizando o Colab ou rode o `.ipynb` localmente.
