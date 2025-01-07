@@ -6,6 +6,8 @@ Este projeto consiste em desenvolver um modelo para extrair características e i
 - `modelo.ipynb`: Código para visualização dos dados, extração de informações e treinamento do modelo em Python.
 - `prototipo.py`: Protótipo do site utilizando Streamlit.
 
+obs: no arquivo notebook `modelo.ipynb`, os dados são inclusos através de um download pelo GDown. Caso esse método deixe de funcionar, deve-se pegar os dados diretamente da pasta fornecida no repositório, com arquivos homônimos.
+
 ## Requisitos
 - Python 3.8+
 - Bibliotecas: Pandas, Numpy, TensorFlow, Matplotlib, Seaborn, PIL, TensorFlow, CV2, SKLearn, Time, Shutil, zipfile, google.colab, skimage, warnings, pathlib
