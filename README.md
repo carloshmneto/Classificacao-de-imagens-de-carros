@@ -8,13 +8,13 @@ Este projeto consiste em desenvolver um modelo para extrair características e i
 
 obs: no arquivo notebook `modelo.ipynb`, os dados são inclusos através de um download pelo GDown. Caso esse método deixe de funcionar, deve-se pegar os dados diretamente da pasta fornecida no repositório, com arquivos homônimos.
 
-## Etapas de aplicação do projeto
-- Importação e ajuste da base de dados
-- Exploração dos dados
-- Extração de informações relevantes das imagens para treinamento
-- Treinamento e teste das imagens
-- Avaliação dos modelos com base em Acurácia top-5
-- Aplicação do modelo final em um protótipo para uso prático
+## Etapas do Projeto
+1. Importação e ajuste da base de dados
+2. Exploração dos dados
+3. Extração de informações relevantes das imagens para treinamento
+4. Treinamento e teste das imagens
+5. Avaliação dos modelos com base em Acurácia top-5
+6. Aplicação do modelo final em um protótipo para uso prático
 
 ## Como Executar
 1. Treine o modelo utilizando o Colab ou rode o `.ipynb` localmente.
