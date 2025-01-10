@@ -8,9 +8,13 @@ Este projeto consiste em desenvolver um modelo para extrair características e i
 
 obs: no arquivo notebook `modelo.ipynb`, os dados são inclusos através de um download pelo GDown. Caso esse método deixe de funcionar, deve-se pegar os dados diretamente da pasta fornecida no repositório, com arquivos homônimos.
 
-## Requisitos
-- Python 3.8+
-- Bibliotecas: Pandas, Numpy, TensorFlow, Matplotlib, Seaborn, PIL, TensorFlow, CV2, SKLearn, Time, Shutil, zipfile, google.colab, skimage, warnings, pathlib
+## Etapas de aplicação do projeto
+- Importação e ajuste da base de dados
+- Exploração dos dados
+- Extração de informações relevantes das imagens para treinamento
+- Treinamento e teste das imagens
+- Avaliação dos modelos com base em Acurácia top-5
+- Aplicação do modelo final em um protótipo para uso prático
 
 ## Como Executar
 1. Treine o modelo utilizando o Colab ou rode o `.ipynb` localmente.
